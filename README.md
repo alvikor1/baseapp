@@ -8,3 +8,8 @@ Tracking my journey in the Base ecosystem.
 ## Status
 Started: July 2026  
 Current status: Active daily contributor
+## Technologies
+- Solidity
+- TypeScript
+- Base Network
+- viem & wagmi
