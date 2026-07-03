@@ -17,3 +17,4 @@ Current status: Active daily contributor
 
 Day 1: Repository created and initial setup completed.
 Day 2: Explored Base documentation and bridge functionality.
+Day 3: Tested wallet connection to Base network.
