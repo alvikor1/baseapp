@@ -20,3 +20,7 @@ Day 2: Explored Base documentation and bridge functionality.
 Day 3: Tested wallet connection to Base network.
 Day 4: Researched smart contract deployment on Base.
 Day 5: Studied gas optimization techniques.
+## Interests
+- DeFi protocols on Base
+- NFT ecosystems
+- Onchain gaming
