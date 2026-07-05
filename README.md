@@ -31,3 +31,4 @@ Day 9: Explored popular dApps on Base chain.## Current Focus
 Building consistent activity to participate in Base Guild programs.
 Day 10: Analyzed gas fees and transaction costs on Base.
 Day 11: Studied successful Base builder projects.
+Day 12: Connected GitHub account to Base Guild.
