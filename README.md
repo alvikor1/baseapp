@@ -33,3 +33,8 @@ Day 10: Analyzed gas fees and transaction costs on Base.
 Day 11: Studied successful Base builder projects.
 Day 12: Connected GitHub account to Base Guild.
 Day 13: Continued daily contributions and learning.
+## Tools I Use
+- GitHub
+- MetaMask
+- BaseScan Explorer
+- Remix IDE
