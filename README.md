@@ -44,3 +44,4 @@ Day 16: Learning about onchain data indexing.
 Day 17: Exploring Base ecosystem partners and projects.
 ## Progress Update
 Consistent daily activity building toward Base Guild recognition.
+Day 18: Reviewed Base official documentation updates.
