@@ -24,3 +24,4 @@ Day 5: Studied gas optimization techniques.
 - DeFi protocols on Base
 - NFT ecosystems
 - Onchain gaming
+Day 6: Reviewed official Base developer documentation.
