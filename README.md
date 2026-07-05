@@ -29,3 +29,4 @@ Day 7: Experimented with Base Sepolia testnet.
 Day 8: Learned about Account Abstraction on Base.
 Day 9: Explored popular dApps on Base chain.## Current Focus
 Building consistent activity to participate in Base Guild programs.
+Day 10: Analyzed gas fees and transaction costs on Base.
