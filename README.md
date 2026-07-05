@@ -41,3 +41,4 @@ Day 13: Continued daily contributions and learning.
 Day 14: Researched Layer 2 scaling solutions including Base.
 Day 15: Tested simple smart contract interactions on Base.
 Day 16: Learning about onchain data indexing.
+Day 17: Exploring Base ecosystem partners and projects.
