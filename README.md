@@ -52,3 +52,7 @@ Day 22: Analyzed transaction speed advantages of Base.
 Day 23: Continued building open-source activity.
 Day 24: Learning about cross-chain bridges to Base.
 Day 25: Milestone - 25 days of consistent contributions.
+## Next Goals
+- Reach 100 commits
+- Deploy first full project on Base
+- Participate in Base community events
