@@ -50,3 +50,4 @@ Day 20: Explored NFT minting on Base.
 Day 21: Studied decentralized finance protocols on Base.
 Day 22: Analyzed transaction speed advantages of Base.
 Day 23: Continued building open-source activity.
+Day 24: Learning about cross-chain bridges to Base.
