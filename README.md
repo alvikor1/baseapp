@@ -26,3 +26,4 @@ Day 5: Studied gas optimization techniques.
 - Onchain gaming
 Day 6: Reviewed official Base developer documentation.
 Day 7: Experimented with Base Sepolia testnet.
+Day 8: Learned about Account Abstraction on Base.
