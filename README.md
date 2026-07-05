@@ -38,3 +38,4 @@ Day 13: Continued daily contributions and learning.
 - MetaMask
 - BaseScan Explorer
 - Remix IDE
+Day 14: Researched Layer 2 scaling solutions including Base.
