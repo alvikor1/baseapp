@@ -27,3 +27,4 @@ Day 5: Studied gas optimization techniques.
 Day 6: Reviewed official Base developer documentation.
 Day 7: Experimented with Base Sepolia testnet.
 Day 8: Learned about Account Abstraction on Base.
+Day 9: Explored popular dApps on Base chain.
