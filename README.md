@@ -39,3 +39,4 @@ Day 13: Continued daily contributions and learning.
 - BaseScan Explorer
 - Remix IDE
 Day 14: Researched Layer 2 scaling solutions including Base.
+Day 15: Tested simple smart contract interactions on Base.
