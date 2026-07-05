@@ -57,3 +57,4 @@ Day 25: Milestone - 25 days of consistent contributions.
 - Deploy first full project on Base
 - Participate in Base community events
 Day 26: Researched new features in Base ecosystem.
+Day 27: Tested different RPC providers for Base.
