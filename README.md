@@ -25,3 +25,4 @@ Day 5: Studied gas optimization techniques.
 - NFT ecosystems
 - Onchain gaming
 Day 6: Reviewed official Base developer documentation.
+Day 7: Experimented with Base Sepolia testnet.
