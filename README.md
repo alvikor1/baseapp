@@ -56,3 +56,4 @@ Day 25: Milestone - 25 days of consistent contributions.
 - Reach 100 commits
 - Deploy first full project on Base
 - Participate in Base community events
+Day 26: Researched new features in Base ecosystem.
